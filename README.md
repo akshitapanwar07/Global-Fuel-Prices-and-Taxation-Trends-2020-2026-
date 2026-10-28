@@ -17,6 +17,9 @@ An interactive Tableau dashboard analyzing global fuel prices, taxation patterns
 **View My Project:**  
 [https://public.tableau.com/app/profile/akshita.panwar/viz/GlobalFuelPricesandTaxationTrends_17930482136410/GlobalFuelPricesandTaxationTrends)
 
+**Project Website**
+[https://global-fuel-dashboard-akshita-2026.onrender.com]
+
 ## Tools Used
 
 - Tableau Public
